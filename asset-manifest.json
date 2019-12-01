@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/hestia-web-client/static/css/main.b100e6da.chunk.css",
-    "main.js": "/hestia-web-client/static/js/main.c1ea73fb.chunk.js",
-    "main.js.map": "/hestia-web-client/static/js/main.c1ea73fb.chunk.js.map",
+    "main.js": "/hestia-web-client/static/js/main.febef30b.chunk.js",
+    "main.js.map": "/hestia-web-client/static/js/main.febef30b.chunk.js.map",
     "runtime-main.js": "/hestia-web-client/static/js/runtime-main.5b2f78e5.js",
     "runtime-main.js.map": "/hestia-web-client/static/js/runtime-main.5b2f78e5.js.map",
     "static/js/2.4d302a51.chunk.js": "/hestia-web-client/static/js/2.4d302a51.chunk.js",
     "static/js/2.4d302a51.chunk.js.map": "/hestia-web-client/static/js/2.4d302a51.chunk.js.map",
     "index.html": "/hestia-web-client/index.html",
-    "precache-manifest.a170e1daeb47af9cc3013a06edf9a7a1.js": "/hestia-web-client/precache-manifest.a170e1daeb47af9cc3013a06edf9a7a1.js",
+    "precache-manifest.6a71fdee3ab44d0f167543ccab9dfe3b.js": "/hestia-web-client/precache-manifest.6a71fdee3ab44d0f167543ccab9dfe3b.js",
     "service-worker.js": "/hestia-web-client/service-worker.js",
     "static/css/main.b100e6da.chunk.css.map": "/hestia-web-client/static/css/main.b100e6da.chunk.css.map",
     "static/media/logo.svg": "/hestia-web-client/static/media/logo.25bf045c.svg"
@@ -17,6 +17,6 @@
     "static/js/runtime-main.5b2f78e5.js",
     "static/js/2.4d302a51.chunk.js",
     "static/css/main.b100e6da.chunk.css",
-    "static/js/main.c1ea73fb.chunk.js"
+    "static/js/main.febef30b.chunk.js"
   ]
 }
